@@ -4,14 +4,14 @@
 }
 
 .logo {
-    width: 422 flex;
-    height: 174 flex;
+    width: 420px;
+    height: 175px;
     padding: 1%;
 
-    text-align: center;
+    text-align: left;
 }
 
-.li .navigation {
+.li.navigation {
     width: 73%;
     padding: 1%;
 }
@@ -40,6 +40,6 @@
 footer.ul {
     display: inline-block;
     vertical-align: top;
-    padding 5px
+    padding: 5px;
 }
 
